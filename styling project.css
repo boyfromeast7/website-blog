@@ -1,0 +1,86 @@
+/*Untuk header*/
+.jumbotron {
+   font-size: 20px;
+  padding: 70px;
+  background-color: lightblue;
+  text-align: center;
+  color: white;
+}
+h1 {font-family: 'Josefin Sans', sans-serif;}
+
+
+/*untuk navigasi*/
+nav {
+   background-color: skyblue;
+   padding: 8px;  
+}
+nav ul {
+   padding-inline: 4rem;
+   display: flex;
+   gap: 2rem;
+   font-family: 'Josefin Sans', sans-serif;
+}
+nav li {
+   list-style-type: none;
+}
+a:link {
+    color: blue;
+ }
+ a:visited {
+    color: gray;
+ }
+ a:hover {
+    color: cyan;
+ }
+ a:active {
+    color: white;
+ }
+ 
+ /*untuk main*/
+ main {
+   padding: 25px;
+ }
+.card {
+   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+   border-radius: 5px;
+   padding: 20px;
+   margin-top: 20px;
+ }
+ h2 {
+    font-family: 'Josefin Sans', sans-serif;
+    color: blue;
+ }
+ h3 {
+   font-family: 'Josefin Sans', sans-serif;
+   color: brown;
+ }
+.paragraf {
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: medium;
+    text-align: justify;
+    color: black;
+}
+
+/*Untuk Aside*/
+aside {
+   width: 30%;
+   padding-left: 15px;
+   margin-left: 15px;
+   float: right;
+   font-family: 'Josefin Sans', sans-serif;
+   background-color: whitesmoke;
+ }
+ img {
+   width: 300px;
+   height: 400px;
+ }
+
+ /*Untuk Footer*/
+ footer {
+   padding: 20px;
+   color: white;
+   background-color: lightskyblue;
+   text-align: center;
+   font-weight: normal;
+ }
+ 
